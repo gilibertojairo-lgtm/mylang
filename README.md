@@ -18,5 +18,5 @@ make
 
 ## Cómo usar
 ```bash
-./bin/miLenguaje examples/ejemplo.mylang
+~/miLenguaje/build/bin/miLenguaje
 ```
