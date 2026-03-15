@@ -1,0 +1,6 @@
+# Ejemplo de script para miLenguaje
+set x 5
+print "Valor de x: $x"
+add x 3
+print "Ahora x vale: $x"
+run ls -l
