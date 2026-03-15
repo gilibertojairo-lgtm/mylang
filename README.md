@@ -10,7 +10,10 @@ Proyecto de ejemplo de un lenguaje tipo Bash que también puede ejecutar comando
 
 ## Cómo compilar
 ```bash
-g++ src/*.cpp -o bin/miLenguaje
+mkdir build
+cd build
+cmake ..
+make
 ```
 
 ## Cómo usar
